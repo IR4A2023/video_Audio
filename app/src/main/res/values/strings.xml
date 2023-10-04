@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IR4A</string>
+    <string name="title_activity_accueil">Accueil</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="loginok">toto</string>
+    <string name="mdpok">titi</string>
+</resources>
